@@ -11,6 +11,7 @@ Maybe crowd sourcing is an effective way.
 
   <li>https://www.washingtonpost.com/pr/wp/2017/12/08/the-washington-post-launches-how-to-be-a-journalist-video-series/?utm_term=.f08f2e98c3b1</li>
 </ul>
+The first obligation is to the truth.
 
 What skills?
 Ethics?
