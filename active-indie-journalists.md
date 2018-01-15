@@ -3,9 +3,9 @@
 
 <h3>Indie Journalists</h3>
 <ul>
-  <li>Derrick Broze</li>
+  <li>[Derrick Broze](https://steemit.com/@dbroze)</li>
   <li>Jason Goodman of Crowdsource the Truth on Youtube</li>
-  <li>@Corbettreport is already on Steemit</li>
+  <li>https://steemit.com/@Corbettreport</li>
   <li>https://steemit.com/@pressfortruth</li>
   <li>George Webb? Investigates using meta-data</li>
   <li>[Twitter list](https://twitter.com/MaliciaRogue/lists/osint/members)</li>
