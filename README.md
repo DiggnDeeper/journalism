@@ -1,8 +1,7 @@
 # journalism
-Can learning to be a journalist be open sourced?
-Can journalism itself be open sourced (crowd sourced)
-
-Can we create an "army" of independent journalists?
+<h3>Can learning to be a journalist be open sourced?</h3>
+<h3>Can journalism itself be open sourced and crowd sourced for a radically more decentralized information gathering and story telling?</h3>
+<h3>Can we create a culture of independent journalists that creates a groundswell of qualified activity?</h3>
 
 Maybe crowd sourcing is an effective way. 
 
