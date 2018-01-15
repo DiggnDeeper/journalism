@@ -1,5 +1,5 @@
-# As always, these pages are for community editing. Periodic drafts will be published on: https://steemit.com/@diggndeeper.com
-# Intention is for a more formal curated effort to be published on: http://communication.diggndeeper.com/
+<h4>As always, these pages are for community editing. Periodic drafts will be published on: https://steemit.com/@diggndeeper.com</h4>
+<h4>Intention is for a more formal curated effort to be published on: http://communication.diggndeeper.com/</h4>
 
 <h3>Indie Journalists</h3>
 <ul>
