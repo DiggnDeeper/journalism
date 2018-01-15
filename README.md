@@ -4,8 +4,9 @@
 <h3>Can we create a culture of independent journalists that creates a groundswell of qualified activity?</h3>
 
 Maybe crowd sourcing is an effective way. 
-
+<h4>Some sources to learn and some examples in use.</h4>
 <ul>
+  <li>http://thegovlab.org/5-crowdsourced-news-platforms-shaping-the-future-of-journalism-and-reporting/</li>
   <li>https://firstdraftnews.com/how-to-get-started-in-online-investigations-with-open-source-intelligence-osint/</li>
   <li>https://www.udemy.com/how-to-be-a-journalist-the-complete-guide/</li>
 
