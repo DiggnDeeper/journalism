@@ -4,6 +4,7 @@
 <h3>Indie Journalists on Steemit</h3>
 <ul>
   <li>[Derrick Broze](https://steemit.com/@dbroze)</li>
+  <li>https://steemit.com/@johnvibes</li>
   <li>https://steemit.com/@Corbettreport</li>
   <li>https://steemit.com/@pressfortruth</li>
   <li>https://steemit.com/@julianassange: Being held by Ausitbank awaiting verified handover.</li>
