@@ -8,11 +8,17 @@
   <li>https://firstdraftnews.com/</li>
   <li>http://verificationhandbook.com/</li>
 </ul>
+
+
 What skills?
 <h4>Resources by topic.</h4>
 <ul>
   <li>Methods of investigation</li>
   <li>Ethics?</li> 
   <li>Media law?</li>
-  <li>Verification</li>
+  
+  <li>Verification</li> 
+    <ul>
+      <li>http://verificationhandbook.com/</li>
+    </ul>
 </ul>
