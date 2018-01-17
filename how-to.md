@@ -1,4 +1,4 @@
-
+<h4>Education resources.</h4)
 <ul>
   <li>https://www.bellingcat.com/ -> more specifically https://www.bellingcat.com/category/resources/how-tos/</li>
   <li>http://thegovlab.org/5-crowdsourced-news-platforms-shaping-the-future-of-journalism-and-reporting/</li>
@@ -7,4 +7,12 @@
   <li>https://www.washingtonpost.com/pr/wp/2017/12/08/the-washington-post-launches-how-to-be-a-journalist-video-series/?utm_term=.f08f2e98c3b1</li>
   <li>https://firstdraftnews.com/</li>
   <li>http://verificationhandbook.com/</li>
+</ul>
+What skills?
+<h4>Resources by topic.</h4>
+<ul>
+  <li>Methods of investigation</li>
+  <li>Ethics?</li> 
+  <li>Media law?</li>
+  <li>Verification</li>
 </ul>
