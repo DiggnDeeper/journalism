@@ -9,7 +9,7 @@
   <li>http://verificationhandbook.com/</li>
 </ul>
 
-
+<br/>
 What skills?
 <h4>Resources by topic.</h4>
 <ul>
