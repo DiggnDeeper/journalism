@@ -11,7 +11,7 @@
 
 <br/>
 <h4>What skills?</h4>
-As with learning anything, the first thing to do is figure out what it is that we need to learn. Here, we are compliling a list of the skills needed and resources available for learning those skills.
+As with learning anything, the first thing to do is figure out what it is that we need to learn. Here, we are compliling a list of the skills needed to pursue journalism and resources available for learning those skills.
 <h4>Resources by topic.</h4>
 <ul>
   <li>Methods of investigation</li>
