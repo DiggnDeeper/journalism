@@ -15,10 +15,15 @@
   <li>https://steemit.com/@cfs.leaks</li>
   <li>https://steemit.com/@familyprotection</li>
   <li>https://steemit.com/@coinivore</li>
+  <li>https://steemit.com/@news2share</li>
+  <li>https://steemit.com/@caitlinjohnstone</li>
+  <li>https://steemit.com/@lukewearechange</li>
+  <li>https://steemit.com/@sarahabed</li>
 </ul>
 
-Not Steemit
+Not Steemit, at least not yet.
 <ul>
+  <li>Greg Carlwood of The Higherside Chats</li>
   <li>Jason Goodman of Crowdsource the Truth on Youtube</li>
   <li>George Webb? Investigates using meta-data</li>
   <li>[Twitter list](https://twitter.com/MaliciaRogue/lists/osint/members)</li>
