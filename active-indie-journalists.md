@@ -23,6 +23,7 @@
 
 Not Steemit, at least not yet.
 <ul>
+  <li>Patrick Henningsen of 21st Century Wire (& Alternate Current Radio Network)</li>
   <li>Greg Carlwood of The Higherside Chats</li>
   <li>Jason Goodman of Crowdsource the Truth on Youtube</li>
   <li>George Webb? Investigates using meta-data</li>
